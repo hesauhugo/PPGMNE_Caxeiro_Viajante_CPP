@@ -1,0 +1,59 @@
+﻿  TSPGurobi.cpp
+gurobi_c++mdd2017.lib(Exception.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Exception.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(LinExpr.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(LinExpr.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(TempConstr.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(TempConstr.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Env.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Env.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Var.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Var.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Model.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Model.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(QuadExpr.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(QuadExpr.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(attrprivate.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(attrprivate.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Constr.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Constr.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(SOS.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(SOS.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(QConstr.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(QConstr.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(GenConstr.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(GenConstr.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Callback.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Callback.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Column.2017.omdd) : error LNK2038: não correspondência detectada para '_ITERATOR_DEBUG_LEVEL': valor '2' não corresponde ao valor '0' no TSPGurobi.obj
+gurobi_c++mdd2017.lib(Column.2017.omdd) : error LNK2038: não correspondência detectada para 'RuntimeLibrary': valor 'MDd_DynamicDebug' não corresponde ao valor 'MD_DynamicRelease' no TSPGurobi.obj
+LINK : warning LNK4098: defaultlib 'MSVCRTD' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+gurobi_c++mdd2017.lib(Callback.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Column.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Constr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(SOS.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(QConstr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(GenConstr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Var.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Model.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(QuadExpr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(attrprivate.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Exception.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(LinExpr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(TempConstr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Env.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__invalid_parameter
+gurobi_c++mdd2017.lib(Callback.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(Column.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(Constr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(SOS.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(QConstr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(GenConstr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(Var.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(Model.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(QuadExpr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(attrprivate.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(Exception.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(LinExpr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(TempConstr.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+gurobi_c++mdd2017.lib(Env.2017.omdd) : error LNK2001: símbolos externos indefinidos __imp__CrtDbgReport
+C:\Users\User\Documents\Mestrado\PM\C++\Projeto\CaxeiroViajante\x64\Release\TSPGurobi.exe : fatal error LNK1120: 2 externo não resolvidos

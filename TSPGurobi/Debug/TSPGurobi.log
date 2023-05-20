@@ -1,0 +1,2 @@
+﻿  TSPGurobi.cpp
+c:\users\user\documents\mestrado\pm\c++\projeto\caxeiroviajante\tspgurobi\tspgurobi.cpp(15): fatal error C1083: Não é possível abrir arquivo incluir: 'gurobi_c++.h': No such file or directory
